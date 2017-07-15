@@ -5,11 +5,11 @@
 - User
 - AdminUser -> STI
 
-## Features:
+## Features
 - Approval Flow
 - SMS
 - Adminstrate admin dashboard
 - Email summary
 
-## UI:
-Bootstrap -> formating
+## UI
+- Bootstrap -> formating

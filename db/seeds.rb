@@ -20,7 +20,7 @@ AdminUser.create(email: "admin@test.com",
 				 password_confirmation: "asdfasdf", 
 				 first_name:"Admin", 
 				 last_name:"Name",
-				 phone:"123")
+				 phone:"1234567891")
 
 puts "1 Admin User created"
 

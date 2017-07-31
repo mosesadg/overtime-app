@@ -11,7 +11,7 @@
 					password_confirmation: "asdfasdf", 
 					first_name:"John", 
 					last_name:"Snow",
-					phone:"123")
+					phone:"1234567891")
 
 puts "1 User created"
 

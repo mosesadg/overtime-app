@@ -5,6 +5,10 @@ class PostPolicy < ApplicationPolicy
    # record.user_id  == user.id || user.type =="AdminUser"
 	end
 
+	def approve?
+		admin?
+	end
+
 	private
 
 	def user_or_admin
